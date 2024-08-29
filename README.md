@@ -19,5 +19,7 @@ Pessoas que tem interesse/necessidade de aprender/entender linguagem de sinais, 
 
 # Telas
 
+![SignTranslate telas](/docs/Imgs/Tela.png "SignTranslate telas")
 
+[Link para telas no figma](https://www.figma.com/design/OgtVQmGuoYMwMdPyrxCU3g/Trabalho-LDDM?node-id=0-1&t=hYrtVM12sIpeXX0u-1)
 
